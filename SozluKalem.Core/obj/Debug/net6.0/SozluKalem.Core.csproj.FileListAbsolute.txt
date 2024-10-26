@@ -1,0 +1,12 @@
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\bin\Debug\net6.0\SozluKalem.Core.deps.json
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\bin\Debug\net6.0\SozluKalem.Core.dll
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\bin\Debug\net6.0\SozluKalem.Core.pdb
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\SozluKalem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\SozluKalem.Core.AssemblyInfoInputs.cache
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\SozluKalem.Core.AssemblyInfo.cs
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\SozluKalem.Core.csproj.CoreCompileInputs.cache
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\SozluKalem.Core.dll
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\SozluKalem.Core.pdb
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\ref\SozluKalem.Core.dll
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\SozluKalem.Core.csproj.AssemblyReference.cache
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Core\obj\Debug\net6.0\refint\SozluKalem.Core.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SozluKalem.Web.props" />
+</Project>

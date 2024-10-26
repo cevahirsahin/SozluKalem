@@ -1,0 +1,1772 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\shared\\components\\dashboardheader\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\shared\\components\\dashboardheader\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\users\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\users\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\users\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\users\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\viewcomponents\\dashboardheaderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\viewcomponents\\dashboardheaderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\consts\\roleconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\consts\\roleconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\extensions\\servicelayerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\extensions\\servicelayerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93B023F-4949-430F-825E-2F721E248185}|SozluKalem.Core\\SozluKalem.Core.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.core\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93B023F-4949-430F-825E-2F721E248185}|SozluKalem.Core\\SozluKalem.Core.csproj|solutionrelative:sozlukalem.core\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\automapper\\users\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\automapper\\users\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\helpers\\images\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\helpers\\images\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\services\\concrete\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\services\\concrete\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\extensions\\loggedinuserextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\extensions\\loggedinuserextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\automapper\\articles\\articleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\automapper\\articles\\articleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\services\\abstractions\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\services\\abstractions\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\describers\\customidentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\describers\\customidentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\helpers\\images\\iimagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\helpers\\images\\iimagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\services\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\services\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\automapper\\categories\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\automapper\\categories\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\fluentvalidations\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\fluentvalidations\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\fluentvalidations\\articlevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\fluentvalidations\\articlevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\services\\abstractions\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\services\\abstractions\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\enums\\imagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\enums\\imagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\users\\useradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\users\\useradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\images\\imageuploadeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\images\\imageuploadeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\categories\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\categories\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\categories\\categoryadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\categories\\categoryadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\articles\\articleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\articles\\articleupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\articles\\articlelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\articles\\articlelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\articles\\articleadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\articles\\articleadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\articles\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\articles\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\services\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\services\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\services\\concrete\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\services\\concrete\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\services\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\services\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\fluentvalidations\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\fluentvalidations\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\migrations\\20240719063415_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\migrations\\20240719063415_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93B023F-4949-430F-825E-2F721E248185}|SozluKalem.Core\\SozluKalem.Core.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.core\\entities\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93B023F-4949-430F-825E-2F721E248185}|SozluKalem.Core\\SozluKalem.Core.csproj|solutionrelative:sozlukalem.core\\entities\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Articles\\ArticleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SozluKalem.Service\\AutoMapper\\Articles\\ArticleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\articlemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\articlemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\extensions\\datalayerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\extensions\\datalayerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\article\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\article\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\sozlukalem.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\sozlukalem.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\resultmessages\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\resultmessages\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\article\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\article\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentfiles\\any\\net6.0\\wwwroot\\noty.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentfiles\\any\\net6.0\\wwwroot\\toastr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\sozlukalem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\sozlukalem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.service\\sozlukalem.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE0E0BDA-3C1F-4C95-8D10-EDDCAAEAAF4B}|SozluKalem.Service\\SozluKalem.Service.csproj|solutionrelative:sozlukalem.service\\sozlukalem.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\areas\\admin\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\areas\\admin\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\appusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\appusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\appuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\appuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\appuserclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\appuserclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\approleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\approleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\dtos\\users\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\dtos\\users\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\20240719062956_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SozluKalem.Data\\Migrations\\20240719062956_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\imagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\imagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\userrolemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\userrolemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\roleclaimmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\roleclaimmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\userloginmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\userloginmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\20240719051435_UserCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SozluKalem.Data\\Migrations\\20240719051435_UserCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\rolemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\rolemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\usertokenmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\usertokenmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.data\\mappings\\userclaimmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5FBF4-D36B-4078-9B0F-E21D5DB3ECC1}|SozluKalem.Data\\SozluKalem.Data.csproj|solutionrelative:sozlukalem.data\\mappings\\userclaimmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.entity\\entities\\appuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F6DD37-3F0A-4496-B6C0-E1C731369AA6}|SozluKalem.Entity\\SozluKalem.Entity.csproj|solutionrelative:sozlukalem.entity\\entities\\appuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|c:\\users\\cevah\\desktop\\s\u00F6zl\u00FCkalem\\sozlukalem.web\\sozlukalem.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D72BFC3-6957-40C7-B8A4-7BD33C34B5F6}|SozluKalem.Web\\SozluKalem.Web.csproj|solutionrelative:sozlukalem.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\IdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SozluKalem.Entity\\Entities\\IdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\AbstractValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SozluKalem.Service\\FluentValidations\\AbstractValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\IFormFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SozluKalem.Entity\\DTOs\\Articles\\IFormFile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Extensions\\FluentValidationExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SozluKalem.Service\\Extensions\\FluentValidationExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Concrete\\ArticleService.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Services\\Concrete\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Concrete\\ArticleService.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Services\\Concrete\\ArticleService.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAYwLEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:28:35.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceLayerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Extensions\\ServiceLayerExtensions.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Extensions\\ServiceLayerExtensions.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Extensions\\ServiceLayerExtensions.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Extensions\\ServiceLayerExtensions.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:12:04.355Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Program.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:27:29.05Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAuwGIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T11:39:00.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Shared\\Components\\DashboardHeader\\Default.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Shared\\Components\\DashboardHeader\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Shared\\Components\\DashboardHeader\\Default.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Shared\\Components\\DashboardHeader\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T18:58:49.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\User\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T19:01:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Users\\UserProfileDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserProfileDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Users\\UserProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:09:30.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Users\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:09:35.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Users\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserUpdateDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Users\\UserUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:22:41.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\User\\Update.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\User\\Update.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\User\\Update.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\User\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T20:19:20.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T19:55:48.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\User\\Add.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\User\\Add.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T20:20:33.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T11:37:52.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T11:37:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T11:36:09.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardHeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\ViewComponents\\DashboardHeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\ViewComponents\\DashboardHeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\ViewComponents\\DashboardHeaderViewComponent.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\ViewComponents\\DashboardHeaderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:16:33.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleConsts.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Consts\\RoleConsts.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Consts\\RoleConsts.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Consts\\RoleConsts.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Consts\\RoleConsts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:15:49.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Core\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Core\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Core\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "SozluKalem.Core\\Entities\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:06:45.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:32:10.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:00:11.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T12:05:00.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Users\\UserProfile.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\AutoMapper\\Users\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Users\\UserProfile.cs",
+              "RelativeToolTip": "SozluKalem.Service\\AutoMapper\\Users\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:26:17.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Helpers\\Images\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Helpers\\Images\\ImageHelper.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Helpers\\Images\\ImageHelper.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Helpers\\Images\\ImageHelper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA3wFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:56:44.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoggedInUserExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Extensions\\LoggedInUserExtensions.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Extensions\\LoggedInUserExtensions.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Extensions\\LoggedInUserExtensions.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Extensions\\LoggedInUserExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:22:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ArticleProfile.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Articles\\ArticleProfile.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\AutoMapper\\Articles\\ArticleProfile.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Articles\\ArticleProfile.cs",
+              "RelativeToolTip": "SozluKalem.Service\\AutoMapper\\Articles\\ArticleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:29:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Abstractions\\IArticleService.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Services\\Abstractions\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Abstractions\\IArticleService.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Services\\Abstractions\\IArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:28:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomIdentityErrorDescriber.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Describers\\CustomIdentityErrorDescriber.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Describers\\CustomIdentityErrorDescriber.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Describers\\CustomIdentityErrorDescriber.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Describers\\CustomIdentityErrorDescriber.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:31:24.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Abstractions\\IUserService.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Services\\Abstractions\\IUserService.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Abstractions\\IUserService.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Services\\Abstractions\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:15:41.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IImageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Helpers\\Images\\IImageHelper.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Helpers\\Images\\IImageHelper.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Helpers\\Images\\IImageHelper.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Helpers\\Images\\IImageHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:04:36.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ArticleValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\ArticleValidator.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\FluentValidations\\ArticleValidator.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\ArticleValidator.cs",
+              "RelativeToolTip": "SozluKalem.Service\\FluentValidations\\ArticleValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:07:18.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\CategoryValidator.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\FluentValidations\\CategoryValidator.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\CategoryValidator.cs",
+              "RelativeToolTip": "SozluKalem.Service\\FluentValidations\\CategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:51:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Categories\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\AutoMapper\\Categories\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Categories\\CategoryProfile.cs",
+              "RelativeToolTip": "SozluKalem.Service\\AutoMapper\\Categories\\CategoryProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:28:36.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Abstractions\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Services\\Abstractions\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Abstractions\\IDashboardService.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Services\\Abstractions\\IDashboardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:15:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ImageType.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Enums\\ImageType.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Enums\\ImageType.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Enums\\ImageType.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Enums\\ImageType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:51:16.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\Category.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:56:41.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\Image.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\Image.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\Image.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:02:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\Article.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:40:34.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Services\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Services\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:18:21.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\AppRole.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppRole.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:00:47.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserAddDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Users\\UserAddDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserAddDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Users\\UserAddDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:12:58.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Categories\\CategoryUpdateDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Categories\\CategoryUpdateDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Categories\\CategoryUpdateDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Categories\\CategoryUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:20:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Categories\\CategoryAddDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Categories\\CategoryAddDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Categories\\CategoryAddDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Categories\\CategoryAddDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:49:09.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ArticleUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\ArticleUpdateDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Articles\\ArticleUpdateDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\ArticleUpdateDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Articles\\ArticleUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:18:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ArticleListDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\ArticleListDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Articles\\ArticleListDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\ArticleListDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Articles\\ArticleListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:12:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ArticleDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\ArticleDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Articles\\ArticleDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\ArticleDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Articles\\ArticleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:59:47.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ImageUploadedDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Images\\ImageUploadedDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Images\\ImageUploadedDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Images\\ImageUploadedDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Images\\ImageUploadedDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:02:46.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Concrete\\UserService.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Services\\Concrete\\UserService.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Concrete\\UserService.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Services\\Concrete\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:57:37.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Concrete\\DashboardService.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Services\\Concrete\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Concrete\\DashboardService.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Services\\Concrete\\DashboardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:12:14.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\UserValidator.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\FluentValidations\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\UserValidator.cs",
+              "RelativeToolTip": "SozluKalem.Service\\FluentValidations\\UserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:11:39.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:04:36.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ArticleAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\ArticleAddDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Articles\\ArticleAddDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\ArticleAddDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Articles\\ArticleAddDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:21:24.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:45:49.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:28:18.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:32:43.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Concrete\\CategoryService.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Services\\Concrete\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Services\\Concrete\\CategoryService.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Services\\Concrete\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:18:42.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240719063415_Init.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\20240719063415_Init.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Migrations\\20240719063415_Init.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\20240719063415_Init.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Migrations\\20240719063415_Init.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:34:15.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:07:20.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Core\\Entities\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Core\\Entities\\IEntityBase.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Core\\Entities\\IEntityBase.cs",
+              "RelativeToolTip": "SozluKalem.Core\\Entities\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:27:49.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ArticleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Articles\\ArticleDTO.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\AutoMapper\\Articles\\ArticleDTO.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\AutoMapper\\Articles\\ArticleDTO.cs",
+              "RelativeToolTip": "SozluKalem.Service\\AutoMapper\\Articles\\ArticleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:57:03.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Repositories\\Concretes\\Repository.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Repositories\\Concretes\\Repository.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Repositories\\Concretes\\Repository.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Repositories\\Concretes\\Repository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:22:32.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ArticleMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\ArticleMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\ArticleMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\ArticleMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\ArticleMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:17:48.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DataLayerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Extensions\\DataLayerExtensions.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Extensions\\DataLayerExtensions.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Extensions\\DataLayerExtensions.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Extensions\\DataLayerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:29:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Add.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Add.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Add.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Add.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T11:54:50.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:22:45.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SozluKalem.Entity.csproj",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\SozluKalem.Entity.csproj",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\SozluKalem.Entity.csproj",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\SozluKalem.Entity.csproj",
+              "RelativeToolTip": "SozluKalem.Entity\\SozluKalem.Entity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T06:31:26.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\ResultMessages\\Messages.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\ResultMessages\\Messages.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\ResultMessages\\Messages.cs",
+              "RelativeToolTip": "SozluKalem.Web\\ResultMessages\\Messages.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wCAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:26:17.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:47:54.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Update.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Update.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Update.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Article\\Update.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T04:58:53.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "IFormFile.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\IFormFile.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Articles\\IFormFile.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Articles\\IFormFile.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Articles\\IFormFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:48:24.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "FluentValidationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Extensions\\FluentValidationExtensions.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\Extensions\\FluentValidationExtensions.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\Extensions\\FluentValidationExtensions.cs",
+              "RelativeToolTip": "SozluKalem.Service\\Extensions\\FluentValidationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:11:27.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "noty.js",
+              "DocumentMoniker": "C:\\Users\\cevah\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+              "ToolTip": "C:\\Users\\cevah\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-29T05:44:07.716Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "toastr.js",
+              "DocumentMoniker": "C:\\Users\\cevah\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+              "ToolTip": "C:\\Users\\cevah\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-29T05:44:14.103Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T10:54:08.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "SozluKalem.Data\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:37:36.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T06:27:59.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:48:15.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:06:27.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "AbstractValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\AbstractValidator.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\FluentValidations\\AbstractValidator.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\FluentValidations\\AbstractValidator.cs",
+              "RelativeToolTip": "SozluKalem.Service\\FluentValidations\\AbstractValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:07:17.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SozluKalem.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\SozluKalem.Data.csproj",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\SozluKalem.Data.csproj",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\SozluKalem.Data.csproj",
+              "RelativeToolTip": "SozluKalem.Data\\SozluKalem.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T06:44:03.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SozluKalem.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:26:54.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\UserMap.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:35:12.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwL8BAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T11:43:38.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SozluKalem.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\SozluKalem.Service.csproj",
+              "RelativeDocumentMoniker": "SozluKalem.Service\\SozluKalem.Service.csproj",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Service\\SozluKalem.Service.csproj",
+              "RelativeToolTip": "SozluKalem.Service\\SozluKalem.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T11:01:11.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Areas\\Admin\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Areas\\Admin\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Areas\\Admin\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T07:13:40.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T06:28:02.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T06:27:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AppUserToken.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUserToken.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\AppUserToken.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUserToken.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\AppUserToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:02:12.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AppUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUserRole.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\AppUserRole.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUserRole.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\AppUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:02:01.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AppUserClaim.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUserClaim.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\AppUserClaim.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUserClaim.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\AppUserClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:01:32.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUser.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:01:19.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "AppRoleClaim.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppRoleClaim.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\AppRoleClaim.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppRoleClaim.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\AppRoleClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:01:03.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "SozluKalem.Data\\UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:17:29.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\DTOs\\Users\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\DTOs\\Users\\UserLoginDto.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\DTOs\\Users\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:17:28.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20240719062956_Init.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\20240719062956_Init.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Migrations\\20240719062956_Init.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\20240719062956_Init.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Migrations\\20240719062956_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:29:56.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UserRoleMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserRoleMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\UserRoleMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserRoleMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\UserRoleMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:36:08.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ImageMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\ImageMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\ImageMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\ImageMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\ImageMap.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowB0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:46:17.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "CategoryMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\CategoryMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\CategoryMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\CategoryMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\CategoryMap.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:38:04.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "RoleClaimMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\RoleClaimMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\RoleClaimMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\RoleClaimMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\RoleClaimMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:35:01.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "UserLoginMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserLoginMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\UserLoginMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserLoginMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\UserLoginMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:35:59.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20240719051435_UserCreated.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\20240719051435_UserCreated.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Migrations\\20240719051435_UserCreated.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Migrations\\20240719051435_UserCreated.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Migrations\\20240719051435_UserCreated.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:14:36.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "RoleMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\RoleMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\RoleMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\RoleMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\RoleMap.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwDEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:34:50.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "UserTokenMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserTokenMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\UserTokenMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserTokenMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\UserTokenMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:36:19.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "UserClaimMap.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserClaimMap.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Data\\Mappings\\UserClaimMap.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Data\\Mappings\\UserClaimMap.cs",
+              "RelativeToolTip": "SozluKalem.Data\\Mappings\\UserClaimMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:35:41.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "IdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\IdentityUser.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\IdentityUser.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\IdentityUser.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\IdentityUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:33:24.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "AppUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUserLogin.cs",
+              "RelativeDocumentMoniker": "SozluKalem.Entity\\Entities\\AppUserLogin.cs",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Entity\\Entities\\AppUserLogin.cs",
+              "RelativeToolTip": "SozluKalem.Entity\\Entities\\AppUserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:01:47.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SozluKalem.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\cevah\\Desktop\\S\u00F6zl\u00FCKalem\\SozluKalem.Web\\SozluKalem.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SozluKalem.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T10:55:51.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

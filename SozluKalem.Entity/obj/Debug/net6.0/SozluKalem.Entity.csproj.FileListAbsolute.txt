@@ -1,0 +1,15 @@
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\bin\Debug\net6.0\SozluKalem.Entity.deps.json
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\bin\Debug\net6.0\SozluKalem.Entity.dll
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\bin\Debug\net6.0\SozluKalem.Entity.pdb
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\bin\Debug\net6.0\SozluKalem.Core.dll
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\bin\Debug\net6.0\SozluKalem.Core.pdb
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\SozluKalem.Entity.csproj.AssemblyReference.cache
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\SozluKalem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\SozluKalem.Entity.AssemblyInfoInputs.cache
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\SozluKalem.Entity.AssemblyInfo.cs
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\SozluKalem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\SozluKalem.Entity.dll
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\SozluKalem.Entity.pdb
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\ref\SozluKalem.Entity.dll
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\SozluKal.35FD75F7.Up2Date
+C:\Users\cevah\Desktop\SözlüKalem\SozluKalem.Web\SozluKalem.Entity\obj\Debug\net6.0\refint\SozluKalem.Entity.dll
